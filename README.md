@@ -97,8 +97,8 @@ You’ll find examples of DAGs and operators configured for the churn prediction
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/beatit-churn-prediction.git
-   cd beatit-churn-prediction
+   git clone [https://github.com/your-username/beatit-churn-prediction.git](https://github.com/ManikeshYBoyini/ML_Ops.git)
+   cd ML_Ops
    ```
 
 2. Install dependencies:
