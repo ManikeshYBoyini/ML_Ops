@@ -1,0 +1,36 @@
+# Core Python Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.4.2
+lightgbm==4.3.0
+
+# Experiment Tracking
+mlflow==2.12.1
+optuna==3.5.0
+
+# PyCaret (optional for rapid experimentation, if used)
+pycaret==3.3.0
+
+# Airflow and Related
+apache-airflow==2.9.1
+apache-airflow-providers-cncf-kubernetes==8.2.1
+apache-airflow-providers-google==10.14.0
+apache-airflow-providers-postgres==5.12.0
+
+# Data Profiling (optional but recommended)
+pandas-profiling==3.6.6
+
+# Misc
+jupyterlab==4.1.6
+notebook==7.2.0
+ipykernel==6.29.4
+python-dotenv==1.0.1
+
+# Version Lock for Python (if using virtualenv or pyenv)
+python_version >= "3.9"
